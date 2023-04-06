@@ -1,0 +1,22 @@
+html {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+*,
+::after *,
+::before * {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: rgb(33, 33, 33);
+  width: 80%;
+  margin: 5rem auto;
+  color: rgb(141, 136, 136);
+}
+@media screen and (min-width: 768px) {
+  body {
+    width: 50%;
+  }
+}
