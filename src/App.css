@@ -8,7 +8,7 @@ input {
   display: flex;
   margin-left: auto;
   margin-right: auto;
-  border: medium solid rgb(33, 33, 33);
+  border: medium solid white;
   border-radius: 2rem;
   font-size: 1.5rem;
   padding: 0 1.5rem;
